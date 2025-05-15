@@ -2,6 +2,8 @@
 
 Este é um projeto de um Conversor de Moedas desenvolvido em Java. O objetivo principal é permitir que os usuários realizem conversões entre diferentes moedas, utilizando taxas de câmbio obtidas dinamicamente de uma API. A interação com o usuário é feita via console, oferecendo um menu com no mínimo 6 opções de conversão e suporte para os idiomas Português e Inglês.
 
+# #challengeoneconversorbr8
+
 ## Funcionalidades
 
 * **Múltiplas Conversões:** Oferece opções de conversão entre USD, EUR, GBP, JPY, BRL e CAD.
